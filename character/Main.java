@@ -1,4 +1,4 @@
-package final_project;
+package character;
 
 public class Main {
 
